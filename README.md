@@ -1,2 +1,1 @@
-# test
-demo repo for using git for models
+# turbo_brocolli
